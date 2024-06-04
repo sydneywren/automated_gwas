@@ -1,6 +1,5 @@
 library(data.table)
 library(qqman)
-ct_dt<-fread("/Users/mlensink/Desktop/1001genomes_CT.assoc.txt")
 cg_dt<-fread("cg_gwas.assoc.txt")
 
 #qq plot to examine distribution of p values
