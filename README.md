@@ -23,4 +23,5 @@ Your phenotype file should be in a format that PLINK can read. Typically, it sho
 ### 4. Downstream Analysis
 1. Copy [output prefix].assoc.txt to local computer
 2. Run file through `gwas_downstream_analysis.R` to create figures (Manhattan Plot)
+3. Update to your variables and pathways throughout analysis
 
